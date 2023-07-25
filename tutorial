@@ -1,0 +1,11 @@
+install vite react native
+first step go on the archive explore then u got to crate a folder where your project gonna be so click on the path of the folder and copy
+after that u got to open your comand prompt and write "cd yourfolderpath"
+then you gonna put this " npm create vite@latest projectname -- --tamplete react "
+after install write again "cd projectname"
+to enter in your project path 
+now write "code ." to open your project with the vs code
+after that press "control ' " to open vs code terminal 
+and install the react libary "npm install"
+is almost already after install is done 
+write "npm run dev" to open a vite localhost then u can see your project
